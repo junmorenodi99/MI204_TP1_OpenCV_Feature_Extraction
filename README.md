@@ -9,8 +9,8 @@ problématique :
 • descripteur : Quelle information attacher à chaque point du support.
 • métrique : Quelle mesure utiliser pour apparier des points.
 • recherche : Comment coder et parcourir l’espace des points d’un modèle.
-**
-1 Préliminaires informatiques**
+
+**1 Préliminaires informatiques**
 
 Une base de code est fournie, qui fonctionne avec une installation standard d’OpenCV (sans opencv-
 contrib, version testée 4.1.0) et Python3. L’archive contenant cette base peut être téléchargée au lien

@@ -18,6 +18,7 @@ suivant :
 http://perso.ensta-paris.fr/~manzaner/Cours/MI204/TP1_Features.zip
 Tous les codes fournis sont des scripts Python3 éditables et exécutables en lançant la commande,
 par exemple :
+
 $ python3 Convolutions.py
 Certains scripts nécessite des arguments, voir le code Python pour plus de détails.
 On trouvera quelques paires d’images de test dans le même répertoire que le logiciel de TP :
@@ -31,6 +32,7 @@ ainsi que le tutoriel :
 https://opencv-python-tutroals.readthedocs.io/en/latest/
 
 **2 Convolutions**
+
 Q1 Expérimenter le code de convolution fourni en exemple dans Convolutions.py. Observer la
 différence entre le calcul direct par balayage du tableau 2d et le calcul utilisant la fonction filter2d
 d’OpenCV. Expliquer pourquoi le noyau de convolution fourni en exemple réalise un réhaussement
@@ -53,6 +55,7 @@ tures Detect.py. Expliquer le principe de chacun de ces détecteurs, les princip
 de chaque détecteur appliqué sur une paire d’images ?
 
 **4 Descripteurs et Appariement**
+
 Q5 Expliquer la stratégie d’appariement de points d’intérêt réalisée dans le script Features Match.py.
 Pourquoi les distances utilisées sont-elles différentes pour les deux descripteurs ?
 Q6 Proposer une stratégie pour évaluer quantitativement le meilleur appariement en déformant
